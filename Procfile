@@ -1,1 +1,1 @@
-web: gunicorn filmblog-django.wsgi
+web: gunicorn filmblog.wsgi
